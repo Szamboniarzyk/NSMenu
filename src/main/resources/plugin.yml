@@ -1,0 +1,6 @@
+name: NSMenu
+version: '${version}'
+main: xyz.szambo.lib.nsmenu.NSMenu
+api-version: 1.16
+authors: [ Szamboniarzyk ]
+description: Simple Menu library
